@@ -1,0 +1,17 @@
+dev:
+  ipAddress: 10.xx.100.xxx
+  port: 1414
+  server-name : server1
+  user-names:
+    - user1
+    - user2
+    - user3
+
+uat:
+  ipAddress: 10.xx.100.xxx
+  port: 1414
+  server-name : server1
+  user-names:
+    - user1
+    - user2
+    - user3

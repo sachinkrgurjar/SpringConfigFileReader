@@ -1,0 +1,4 @@
+server-details:
+  ipAddress: 10.xx.100.xxx
+  port: 1414
+  server-name : server1
